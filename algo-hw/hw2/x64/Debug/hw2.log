@@ -1,0 +1,8 @@
+﻿  hw2.c
+C:\Users\1\OneDrive\WEBEDU\GB\basiCs_and_A\ALGORITHMS\algo-repo\algo-hw\hw2\hw2.c(119,25): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[100]'
+C:\Users\1\OneDrive\WEBEDU\GB\basiCs_and_A\ALGORITHMS\algo-repo\algo-hw\hw2\hw2.c(119,25): warning C4024: 'convertToBinRec': different types for formal and actual parameter 2
+C:\Users\1\OneDrive\WEBEDU\GB\basiCs_and_A\ALGORITHMS\algo-repo\algo-hw\hw2\hw2.c(263,28): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\1\OneDrive\WEBEDU\GB\basiCs_and_A\ALGORITHMS\algo-repo\algo-hw\hw2\hw2.c(273,28): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\1\OneDrive\WEBEDU\GB\basiCs_and_A\ALGORITHMS\algo-repo\algo-hw\hw2\hw2.c(246,1): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+C:\Users\1\OneDrive\WEBEDU\GB\basiCs_and_A\ALGORITHMS\algo-repo\algo-hw\hw2\hw2.c(255,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'int *'
+  hw2.vcxproj -> C:\Users\1\OneDrive\WEBEDU\GB\basiCs_and_A\ALGORITHMS\algo-repo\algo-hw\x64\Debug\hw2.exe
